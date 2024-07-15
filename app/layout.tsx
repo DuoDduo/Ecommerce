@@ -2,7 +2,7 @@ import './globals.css';
 import type { Metadata } from 'next';
 import { Roboto } from 'next/font/google';
 import Navbar from './components/nav/Navbar';
-import Footer from './components/footer/Footer';
+import Footer from './components/footer/footer';
 import CartProvider from '../providers/CartProvider';
 import { Toaster } from 'react-hot-toast';
 

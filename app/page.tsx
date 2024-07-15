@@ -1,6 +1,6 @@
 import Container from "./components/Container";
 import HomeBanner from "./components/HomeBanner";
-import ProductCard from "./components/products/ProductCard"; // Corrected import path
+import ProductCard from "./components/products/productcard"; // Corrected import pathimport { products } from "./utils/products";
 import { products } from "./utils/products";
 
 export default function Home() {
