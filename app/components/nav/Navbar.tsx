@@ -1,5 +1,5 @@
 "use client"
-import Container from "../container";
+import Container from "../Container";
 import Link from "next/link";
 import CartCount from "../nav/CartCount";
 import { Roboto } from "next/font/google";
