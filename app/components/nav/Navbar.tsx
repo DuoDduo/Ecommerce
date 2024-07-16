@@ -4,7 +4,7 @@ import Link from "next/link";
 import CartCount from "../nav/CartCount";
 import { Roboto } from "next/font/google";
 import { useEffect, useState } from "react";
-import Container from "../Container";
+import Container from "../container";
 
 const roboto = Roboto({ subsets: ["latin"], weight: ["400", "700"] });
 

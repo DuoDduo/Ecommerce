@@ -1,5 +1,5 @@
 
-import Container from "../components/Container";
+import Container from "../components/container";
 import CartClient from"../cart/CartClient"
 const Cart = () => {
     return ( <div className="pt-8">

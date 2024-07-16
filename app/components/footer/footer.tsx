@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-import Container from "../Container";
+import Container from "../container";
 import FooterList from "./footerlist";
 import {MdFacebook} from "react-icons/md"
 import {AiFillTwitterCircle} from "react-icons/ai"

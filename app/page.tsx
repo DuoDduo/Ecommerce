@@ -1,4 +1,4 @@
-import Container from "./components/Container";
+import Container from "./components/container";
 import HomeBanner from "./components/HomeBanner";
 import ProductCard from "./components/products/productcard"; // Corrected import pathimport { products } from "./utils/products";
 import { products } from "./utils/products";
