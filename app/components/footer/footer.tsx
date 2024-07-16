@@ -52,7 +52,8 @@ const Footer = () => {
             </div>
             </FooterList>
             </div> 
-        </Container> 
+        </Container>
+        <p>&copy; {new Date().getFullYear()} MLJAY. All rights reserved</p> 
         </footer>
       );
 };
